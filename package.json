@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "colors": "^1.4.0"
+  },
+  "name": "webhook.js",
+  "description": "send webhook to discord easily",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slyrith/Webhook.js.git"
+  },
+  "keywords": ["Webhook", "Discord", "Bot", "Aoi"],
+  "author": "slyrith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slyrith/Webhook.js/issues"
+  },
+  "homepage": "https://github.com/Slyrith/Webhook.js#readme"
+}
