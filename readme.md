@@ -8,7 +8,7 @@ Send webhook message on discord easily!
 ```js
 const Hookcord = require('Hookcord.js');
 
-const wb = new Webhook({
+const wb = new Hookcord({
     name: "Webhook name",
     token: "webhook token",
     id: "webhook id",
